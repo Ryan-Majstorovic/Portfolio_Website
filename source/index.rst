@@ -3,7 +3,6 @@ Ryan Majstorovic Portfolio
 
 .. image:: _static/img/profile.jpeg
    :alt: Profile photo placeholder for Ryan Majstorovic
-   :align: left
    :width: 220px
 
 Welcome
@@ -21,7 +20,7 @@ Contact Information
 ----------------------------
 
 - Email: `RyanMajstorovic@gmail.com <mailto:RyanMajstorovic@gmail.com>`_
-- `LinkedIn Link <https://www.linkedin.com/in/ryan-majstorovic/>`_
+- LinkedIn: `Link <https://www.linkedin.com/in/ryan-majstorovic/>`_
 
 Career Objective
 ----------------
@@ -34,7 +33,7 @@ solutions, and mixed-signal or RF front ends. My current focus is to continue
 growing through industry work while finishing my degree, then move into a full
 time role and continue my education with an M.Eng. in Electrical Engineering.
 
-Documentation Navigation
+Portfolio Navigation
 ------------------------
 
 .. toctree::
@@ -47,4 +46,4 @@ Documentation Navigation
    resume_and_achievements
    reflections
    ethics_paper
-   checklist
+
