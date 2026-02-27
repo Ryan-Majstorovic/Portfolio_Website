@@ -77,7 +77,8 @@ End-to-End Ownership
 Owned CCD driver board v1 from concept through schematic, layout, release for
 order, and early bring-up planning for STM32 timing and ADC integration.
 
-Link to CCD driver board pdf overview: :ref:`CCD Driver Board PDF <source/_static/pdfs/CCD_Driver_Board.pdf>'
+Link to CCD driver board PDF overview:
+`CCD Driver Board PDF <_static/pdfs/CCD_Driver_Board.pdf>`_
 
 Skills or Knowledge Gained
 --------------------------

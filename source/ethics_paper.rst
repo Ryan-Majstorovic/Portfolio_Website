@@ -1,14 +1,5 @@
-Ethics Paper (CPRE/EE 394)
-==========================
-
-How to Add Ethics Paper PDF
----------------------------
-
-1. Place your PDF at ``source/_static/pdfs/Ethics_paper.pdf``.
-2. Rebuild docs with ``build-pages.bat``.
-
-Embedded Viewer
----------------
+Ethics Paper (CPRE/EE 2320)
+===========================
 
 .. raw:: html
 
