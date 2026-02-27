@@ -56,7 +56,6 @@ Proof and Links
 
 .. image:: _static/img/HA_thermostat.png
    :alt: Senior design deliverables overview diagram
-   :align: left
    :width: 40%
 
 Project 2: 10 GHz BPSK Modulator Board (Balun + RF Switch)
