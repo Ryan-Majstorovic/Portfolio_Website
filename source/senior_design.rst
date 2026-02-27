@@ -6,7 +6,7 @@ Cost Effective NIR-VIS Spectrometer (Spectro)
 
 **Status:** In progress (Spring 2026 to Fall 2026)
 
-:ref:`Project Website <https://sddec26-06.sd.ece.iastate.edu>`
+`Project Website <https://sddec26-06.sd.ece.iastate.edu>`_
 
 Description of Project
 ----------------------
@@ -77,7 +77,7 @@ End-to-End Ownership
 Owned CCD driver board v1 from concept through schematic, layout, release for
 order, and early bring-up planning for STM32 timing and ADC integration.
 
-Link to CCD driver board pdf overview: `CCD Driver Board PDF <source/_static/pdfs/CCD_Driver_Board.pdf>'
+Link to CCD driver board pdf overview: :ref:`CCD Driver Board PDF <source/_static/pdfs/CCD_Driver_Board.pdf>'
 
 Skills or Knowledge Gained
 --------------------------
