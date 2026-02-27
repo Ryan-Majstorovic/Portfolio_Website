@@ -54,15 +54,17 @@ sensor-driven behavior and Home Assistant telemetry/setpoint control.
 Proof and Links
 ~~~~~~~~~~~~~~~
 
-- Repository: placeholder
-- Photos: placeholder
-- Demo video: optional placeholder
-- Design files: placeholder
+.. image:: _static/img/HA_thermostat.png
+   :alt: Senior design deliverables overview diagram
+   :align: center
+   :width: 40%
+
+:ref:`Home Assistant integration Code <Thermostat.yaml.txt>`_
 
 Project 2: 10 GHz BPSK Modulator Board (Balun + RF Switch)
 -----------------------------------------------------------
 
-**Timeframe:** Spring 2026
+**Timeframe:** Fall 2026
 
 Description
 ~~~~~~~~~~~
@@ -106,16 +108,8 @@ Resources Used
 Measurable Outcome
 ~~~~~~~~~~~~~~~~~~
 
-Demonstrated BPSK phase-state control at 10 GHz using switched 0/180 degree RF
-paths and verified performance through RF measurements.
+Achieved a working BPSK modulator with clear phase states and expected spectral characteristics at 10 GHz, validated through measurements.
 
-Proof and Links
-~~~~~~~~~~~~~~~
-
-- Repository: placeholder
-- Report/write-up: placeholder
-- Photos: placeholder
-- Demo video: optional placeholder
 
 Project 3: CPRE 288 CyBot Autonomous Robot
 ------------------------------------------
@@ -164,11 +158,5 @@ Measurable Outcome
 Achieved repeatable autonomous behavior with sensor-informed decisions validated
 through test runs and logged measurements.
 
-Proof and Links
-~~~~~~~~~~~~~~~
-
-- Repository: placeholder
-- Report: placeholder
-- Photos/video: placeholder
 
 

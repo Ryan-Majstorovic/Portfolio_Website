@@ -1,9 +1,9 @@
-Portfolio Documentation
-=======================
+Ryan Majstorovic Portfolio
+==========================
 
 .. image:: _static/img/profile.jpeg
    :alt: Profile photo placeholder for Ryan Majstorovic
-   :align: right
+   :align: left
    :width: 220px
 
 Welcome
@@ -17,13 +17,11 @@ at John Deere, where I apply structured testing, documentation, and
 problem-solving to real engineering programs. This portfolio highlights my
 journey through Iowa State University.
 
-Name and Contact Information
+Contact Information
 ----------------------------
 
-- Name: Ryan Majstorovic
 - Email: `RyanMajstorovic@gmail.com <mailto:RyanMajstorovic@gmail.com>`_
-- LinkedIn: `Ryan Majstorovic <https://www.linkedin.com/in/ryan-majstorovic/>`_
-- Portfolio URL: This documentation site
+- `LinkedIn Link <https://www.linkedin.com/in/ryan-majstorovic/>`_
 
 Career Objective
 ----------------

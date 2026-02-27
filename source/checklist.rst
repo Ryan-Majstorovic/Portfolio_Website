@@ -13,9 +13,9 @@ Use this checklist to track completion.
 - [x] General education reflection section with embedded PDF viewer
 - [x] Cumulative reflection section with embedded PDF viewer
 - [x] Ethics paper section with embedded PDF viewer
-- [ ] Upload supporting project documents and links
-- [ ] Upload resume PDF (``source/_static/pdfs/Ryan Majstorovic - John Deere.pdf``)
-- [ ] Upload general education reflection PDF
-- [ ] Upload cumulative reflection PDF (``source/_static/pdfs/reflections.pdf``)
-- [ ] Upload ethics paper PDF (``source/_static/pdfs/Ethics_paper.pdf``)
-- [ ] Replace homepage profile placeholder image
+- [x] Upload supporting project documents and links
+- [x] Upload resume PDF (``source/_static/pdfs/Ryan Majstorovic - John Deere.pdf``)
+- [x] Upload general education reflection PDF
+- [x] Upload cumulative reflection PDF (``source/_static/pdfs/reflections.pdf``)
+- [x] Upload ethics paper PDF (``source/_static/pdfs/Ethics_paper.pdf``)
+- [x] Replace homepage profile placeholder image

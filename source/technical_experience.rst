@@ -4,8 +4,8 @@ Internship/Co-op/Technical Experience
 John Deere - Part-Time Student Engineer
 ---------------------------------------
 
-**Location:** Ottumwa, Iowa  
-**Dates:** Start date to present
+**Location:** Ankeny, Iowa  
+**Dates:** October 2025 to present
 
 Duties and Projects
 -------------------
