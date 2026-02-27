@@ -3,26 +3,19 @@ Portfolio Requirements Checklist
 
 Use this checklist to track completion.
 
-- [ ] Name and contact information
-- [ ] Welcoming/inviting front page
-- [ ] Career objective (narrative style)
-- [ ] Senior design project summary:
-  - Description of project
-  - Your role
-  - Skills or knowledge gained
-  - Supporting document links
-  - Big picture contribution
-- [ ] Minimum 3 additional project summaries:
-  - Description of project
-  - Your role
-  - Skills or knowledge gained
-  - Resources used
-- [ ] Internship/co-op/technical work experience (if applicable):
-  - Duties and projects
-  - Technical and soft skills learned
-  - Evaluations
-  - Presentations
-- [ ] Resume including research/published papers, awards, activities
-- [ ] General education reflection
-- [ ] Cumulative reflection
-- [ ] Ethics paper (CPRE/EE 394)
+- [x] Name and contact information
+- [x] Welcoming/inviting front page
+- [x] Career objective (narrative style)
+- [x] Senior design project summary text
+- [x] Minimum three additional project summaries text
+- [x] Internship/co-op/technical experience section
+- [x] Resume section with embedded PDF viewer
+- [x] General education reflection section with embedded PDF viewer
+- [x] Cumulative reflection section with embedded PDF viewer
+- [x] Ethics paper section with embedded PDF viewer
+- [ ] Upload supporting project documents and links
+- [ ] Upload resume PDF (``source/_static/pdfs/Ryan Majstorovic - John Deere.pdf``)
+- [ ] Upload general education reflection PDF
+- [ ] Upload cumulative reflection PDF (``source/_static/pdfs/reflections.pdf``)
+- [ ] Upload ethics paper PDF (``source/_static/pdfs/Ethics_paper.pdf``)
+- [ ] Replace homepage profile placeholder image

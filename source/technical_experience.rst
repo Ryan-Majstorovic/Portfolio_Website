@@ -1,27 +1,38 @@
 Internship/Co-op/Technical Experience
 =====================================
 
-Use this section if applicable.
+John Deere - Part-Time Student Engineer
+---------------------------------------
+
+**Location:** Ottumwa, Iowa  
+**Dates:** Start date to present
 
 Duties and Projects
 -------------------
 
-Summarize your responsibilities and key work.
+- Support new model-year development by assisting with requirements and
+  multi-team engineering documentation
+- Translate electrical team requirements into documentation that stays aligned
+  across electrical, hydraulic, and software teams
+- Contribute to requirement reviews for clarity, testability, and traceability
+- Assist with change tracking and documentation updates as designs evolve
+- Provide project support through fleet data analysis and decision summaries
 
 Skills Learned
 --------------
 
-Include both:
+Technical Skills
+~~~~~~~~~~~~~~~~
 
-- Technical skills
-- Soft skills
+- Requirements engineering fundamentals (clear, testable requirements,
+  traceability, change control)
+- Documentation practices for product development (revision discipline,
+  review workflows)
+- Systems-level reasoning across electrical, hydraulic, and software interfaces
 
-Evaluations
------------
+Soft Skills
+~~~~~~~~~~~
 
-Include performance reviews, feedback summaries, or outcomes if available.
-
-Presentations
--------------
-
-List or link any presentations from your experience.
+- Cross-disciplinary communication with clear action tracking
+- Cross-functional coordination and expectation management
+- Stronger documentation habits and attention to detail under schedule pressure

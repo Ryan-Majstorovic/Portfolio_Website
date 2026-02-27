@@ -29,15 +29,15 @@ Cumulative Reflection
 ---------------------
 
 Use this file path:
-``source/_static/pdfs/cumulative_reflection.pdf``
+``source/_static/pdfs/reflections.pdf``
 
 .. raw:: html
 
    <iframe
      class="pdf-viewer"
-     src="_static/pdfs/cumulative_reflection.pdf"
+     src="_static/pdfs/reflections.pdf"
      title="Cumulative Reflection PDF"
    ></iframe>
 
 If the embed does not load in your browser, open the file directly:
-`Cumulative Reflection PDF <_static/pdfs/cumulative_reflection.pdf>`_
+`Cumulative Reflection PDF <_static/pdfs/reflections.pdf>`_
